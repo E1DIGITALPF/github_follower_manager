@@ -1,0 +1,167 @@
+SOFTWARE LICENSE AGREEMENT
+GitHub Follower Manager
+
+Copyright (c) 2025 E1DIGITAL. All rights reserved.
+
+END-USER LICENSE AGREEMENT (EULA)
+
+IMPORTANT - READ CAREFULLY: This End-User License Agreement ("EULA") is a legal 
+agreement between you (either an individual or a single entity) and E1DIGITAL 
+for the GitHub Follower Manager software product, which includes computer software and 
+may include associated media, printed materials, and online or electronic documentation 
+("SOFTWARE PRODUCT").
+
+By installing, copying, downloading, accessing, or otherwise using the SOFTWARE PRODUCT, 
+you agree to be bound by the terms of this EULA. If you do not agree to the terms of 
+this EULA, do not install or use the SOFTWARE PRODUCT.
+
+1. GRANT OF LICENSE
+
+   1.1 Free Plan: The SOFTWARE PRODUCT is provided as freeware for personal use with 
+       limitations as specified in the application (50 users per day limit).
+
+   1.2 Premium Plan: Upon payment of the applicable license fee ($2.50 USD), you are 
+       granted a non-exclusive, non-transferable, perpetual license to use the SOFTWARE 
+       PRODUCT without the limitations of the Free Plan.
+
+   1.3 You may install and use the SOFTWARE PRODUCT on multiple devices, provided that 
+       you are the sole user and have purchased a Premium license linked to your GitHub 
+       account.
+
+2. RESTRICTIONS
+
+   You may NOT:
+   
+   2.1 Reverse engineer, decompile, disassemble, or attempt to derive the source code 
+       of the SOFTWARE PRODUCT.
+   
+   2.2 Modify, adapt, translate, or create derivative works based on the SOFTWARE PRODUCT.
+   
+   2.3 Remove, alter, or obscure any proprietary notices, labels, or marks on the 
+       SOFTWARE PRODUCT.
+   
+   2.4 Rent, lease, lend, sell, redistribute, sublicense, or provide commercial hosting 
+       services with the SOFTWARE PRODUCT.
+   
+   2.5 Use the SOFTWARE PRODUCT for any illegal purpose or in violation of GitHub's 
+       Terms of Service.
+   
+   2.6 Share, transfer, or resell your Premium license to any third party.
+   
+   2.7 Circumvent or attempt to circumvent the license verification system.
+
+3. INTELLECTUAL PROPERTY
+
+   The SOFTWARE PRODUCT is licensed, not sold. This EULA does not grant you any rights 
+   to trademarks or service marks of E1DIGITAL. All title and intellectual 
+   property rights in and to the SOFTWARE PRODUCT are owned by E1DIGITAL.
+
+4. LICENSE VERIFICATION
+
+   The SOFTWARE PRODUCT requires an active internet connection to verify your license 
+   status through secure online verification with Stripe. Premium features are only 
+   accessible when a valid Premium license is detected linked to your authenticated 
+   GitHub account.
+
+5. TERMINATION
+
+   This license is effective until terminated. Your rights under this license will 
+   terminate automatically without notice if you fail to comply with any term of this 
+   EULA. Upon termination, you must cease all use of the SOFTWARE PRODUCT and destroy 
+   all copies.
+
+6. NO WARRANTY
+
+   THE SOFTWARE PRODUCT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS 
+   OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, 
+   FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. THE ENTIRE RISK ARISING OUT OF 
+   USE OR PERFORMANCE OF THE SOFTWARE PRODUCT REMAINS WITH YOU.
+
+7. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL E1DIGITAL BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, 
+   OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS 
+   OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER 
+   PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT.
+
+8. DISCLAIMER
+
+   This SOFTWARE PRODUCT is not affiliated with, endorsed by, or sponsored by GitHub, Inc. 
+   The SOFTWARE PRODUCT uses GitHub's public API and requires compliance with GitHub's 
+   Terms of Service. You are solely responsible for your use of the SOFTWARE PRODUCT and 
+   any consequences thereof, including any GitHub account restrictions or suspensions.
+
+9. REFUND POLICY
+
+   Due to the digital nature of the SOFTWARE PRODUCT and the low price point ($2.50 USD), 
+   all sales are final. However, if you experience technical issues that prevent you from 
+   using the Premium features, please contact support within 7 days of purchase for assistance.
+
+10. UPDATES AND SUPPORT
+
+    10.1 Premium license holders are entitled to free updates of the SOFTWARE PRODUCT.
+    
+    10.2 Support is provided via email as specified on the official website or repository.
+    
+    10.3 Premium users receive priority support with faster response times.
+
+11. PAYMENT AND BILLING
+
+    11.1 Payment processing is handled by Stripe, Inc., a third-party payment processor.
+    
+    11.2 All payment information is processed securely and is not stored by E1DIGITAL.
+    
+    11.3 The Premium license is a one-time payment with no recurring fees.
+
+12. PRIVACY
+
+    12.1 The SOFTWARE PRODUCT stores your GitHub OAuth token locally on your device.
+    
+    12.2 License verification is performed online by checking your GitHub username against 
+         Stripe payment records.
+    
+    12.3 We do not collect, store, or sell your personal data beyond what is necessary for 
+         license verification.
+    
+    12.4 Your GitHub password is never accessed or stored by the SOFTWARE PRODUCT.
+
+13. ACCEPTABLE USE
+
+    You agree to use the SOFTWARE PRODUCT responsibly and ethically:
+    
+    13.1 Do not spam or harass GitHub users.
+    
+    13.2 Respect GitHub's rate limits and Terms of Service.
+    
+    13.3 Use automation features in moderation.
+    
+    13.4 Do not use the SOFTWARE PRODUCT for any illegal activities.
+    
+    Violation of these terms may result in license revocation without refund.
+
+14. GOVERNING LAW
+
+    This EULA shall be governed by and construed in accordance with the laws of 
+    [Your Country/State], without regard to its conflict of law provisions.
+
+15. ENTIRE AGREEMENT
+
+    This EULA constitutes the entire agreement between you and E1DIGITAL 
+    regarding the SOFTWARE PRODUCT and supersedes all prior or contemporaneous 
+    understandings regarding such subject matter.
+
+16. CONTACT INFORMATION
+
+    For questions regarding this EULA or the SOFTWARE PRODUCT, please contact:
+    
+    Email: [your-email@example.com]
+    GitHub: [https://github.com/your-username]
+
+---
+
+BY INSTALLING OR USING THE SOFTWARE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS 
+EULA, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+Last Updated: December 12, 2025
+Version: 1.0
+

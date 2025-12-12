@@ -1,0 +1,39 @@
+GitHub Follower Manager
+Version: 1.0.0
+Build Date: December 12, 2025
+Price: $2.50 USD (One-time payment)
+
+Changes in this version:
+✓ Initial release
+✓ GitHub OAuth authentication
+✓ Stripe payment integration ($2.50)
+✓ Free plan: 100 users total (lifetime limit, not per day)
+✓ Premium plan: Unlimited users
+✓ Multi-language support (EN, ES, PT)
+✓ Online license verification
+✓ Secure license system
+✓ Custom GitHub icon
+✓ Clean UI with empty credential fields
+
+Protection Features:
+✓ Compiled to bytecode
+✓ Single executable file
+✓ No local license files (unhackable)
+✓ OAuth authentication required
+✓ Online Stripe verification
+
+System Requirements:
+- Windows 10 or higher (64-bit)
+- Internet connection
+- GitHub account
+
+Important Notes:
+- Free plan allows 100 users TOTAL (not per day)
+- After reaching 100, must upgrade to Premium for unlimited
+- Premium is one-time payment, lifetime access
+
+Support:
+- Email: your-email@example.com
+- Priority support for Premium users
+
+© 2025 All rights reserved
