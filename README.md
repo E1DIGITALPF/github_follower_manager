@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub Follower Manager](https://img.shields.io/badge/Price-$2.50-success?style=for-the-badge)
+![GitHub Follower Manager](https://img.shields.io/badge/Price-$2.-success?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Premium-gold?style=for-the-badge)
 
@@ -40,7 +40,7 @@
 - ✅ Multi-language interface
 - ✅ Email support
 
-### 💎 Premium Plan - $2.50 (One-Time Payment)
+### 💎 Premium Plan - $2. (One-Time Payment)
 - ✅ **UNLIMITED** users per day
 - ✅ All Free Plan features
 - ✅ **No restrictions whatsoever**
@@ -77,7 +77,7 @@
 
 **Download the executable:**
 
-👉 [**GitHubFollowerManager.exe**](https://github.com/Paraguanads/githubfollowermanager/raw/refs/heads/main/GitHubFollowerManager.exe) (17.3 MB)
+👉 [**GitHubFollowerManager.exe**](https://github.com/E1DIGITALPF/github_follower_manager/raw/refs/heads/main/GitHubFollowerManager.exe) (17.3 MB)
 
 ### System Requirements
 - 💻 Windows 10 or higher (64-bit)
@@ -120,7 +120,7 @@ octocat
 - Sit back and watch your network grow!
 
 ### Step 4: Upgrade (Optional)
-Want unlimited follows? Click **"Upgrade to Premium"** for just $2.50 and unlock unlimited potential!
+Want unlimited follows? Click **"Upgrade to Premium"** for just $2. and unlock unlimited potential!
 
 ---
 
@@ -128,12 +128,12 @@ Want unlimited follows? Click **"Upgrade to Premium"** for just $2.50 and unlock
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="%" align="center">
 
 ### 🆓 Free Plan
 **$0 / Forever**
 
-✅ 50 users per day  
+✅ 100 users
 ✅ All core features  
 ✅ Email support  
 ✅ Multi-language  
@@ -322,9 +322,9 @@ By purchasing premium, you're:
 
 ## 🎁 Special Launch Offer
 
-### Limited Time: $2.50 (Regular Price: $5.00)
+### Limited Time: $2. (Regular Price: $5.00)
 
-🔥 **Get Premium now at 50% OFF launch pricing!**
+🔥 **Get Premium now at % OFF launch pricing!**
 
 This introductory price won't last forever. Lock in lifetime access at the lowest price ever.
 
