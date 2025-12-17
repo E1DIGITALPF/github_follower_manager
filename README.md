@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub Follower Manager](https://img.shields.io/badge/Price-$2.-success?style=for-the-badge)
+![GitHub Follower Manager](https://img.shields.io/badge/Price-$2.5-success?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Premium-gold?style=for-the-badge)
 
@@ -120,7 +120,7 @@ octocat
 - Sit back and watch your network grow!
 
 ### Step 4: Upgrade (Optional)
-Want unlimited follows? Click **"Upgrade to Premium"** for just $2. and unlock unlimited potential!
+Want unlimited follows? Click **"Upgrade to Premium"** for just $2.50 and unlock unlimited potential!
 
 ---
 
